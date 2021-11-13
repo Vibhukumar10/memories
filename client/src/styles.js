@@ -12,7 +12,7 @@ export default makeStyles(() => ({
     },
     heading: {
         color: 'rgba(0,183,255,1)',
-        fontSize: 'clamp(2vw, 40px,60px)',
+        fontSize: 'clamp(2vw, 30px,60px)',
     },
     image: {
         marginLeft: '15px',
