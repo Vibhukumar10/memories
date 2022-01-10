@@ -1,13 +1,15 @@
 # Memories App 😄
 
-<!-- ![Memories](https://i.ibb.co/7CmVbCW/image.png) -->
+<div align="center">
+<img src="https://github.com/Vibhukumar10/memories/blob/6b5432477d9e0bf9cb2d8245f47e65584dfaa7c1/client/public/memories.png" />
+</div>
 
 ## Introduction
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
-
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+Using React, Node.js, Express & MongoDB, I made a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
 Setup:
 
--   run `npm i && npm start` for both client and server side to start the app
+-   Install dependencies: `npm i`
+-   Start server : `npm run dev`
+-   Start client: `npm start`
